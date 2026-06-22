@@ -1,0 +1,33 @@
+{
+  "vendor": "Microsoft",
+  "scraped_page": {
+    "requested_url": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+    "resolved_url": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+    "title": "GitHub disables Microsoft repos pushing password-stealing malware",
+    "markdown_length": 13229
+  },
+  "extracted": {
+    "vendor_name": "Microsoft",
+    "source_url": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+    "is_relevant": true,
+    "security_incidents": [
+      {
+        "title": "Microsoft GitHub repositories removed after reported compromise distributing potential malicious content",
+        "date": "June 5, 2026",
+        "incident_type": "breach",
+        "evidence": "Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub. The company told BleepingComputer that the repositories were removed due to concerns that they distributed \"potential malicious content.\" Multiple researchers confirmed that the repos were pulled after a compromise during a Miasma/Shai-Hulud supply-chain campaign."
+      },
+      {
+        "title": "Removal of Microsoft Azure/functions-action repository disrupted developer workflows",
+        "date": "June 5, 2026",
+        "incident_type": "outage",
+        "evidence": "The article states that Microsoft removed 73 repositories, disrupting continuous integration pipelines, and that the most significant immediate effect was disabling access to 'Azure/functions-action,' a GitHub Action used by many developers to deploy Azure Functions. Workflows referencing it stopped working because there was nothing in the specified repository to resolve the action, causing an outage."
+      }
+    ],
+    "limitations": [
+      "The page states that the durabletask repository may have been compromised in May and that incomplete cleanup may have allowed the threat actor to return, but it also says this has not been confirmed.",
+      "Microsoft's quoted explanation in the page says the repositories were disabled due to \"potential malicious content\" and an \"internal management issue\" while an investigation was underway; the page does not provide a final Microsoft-confirmed root cause.",
+      "The supplied page text is truncated at the end."
+    ]
+  }
+}

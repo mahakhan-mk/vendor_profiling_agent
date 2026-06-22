@@ -1,0 +1,16 @@
+{
+  "vendor": "Okta",
+  "product": null,
+  "confirmed_public_security_incidents": [],
+  "reported_unconfirmed_security_incidents": [],
+  "vulnerabilities_or_advisories": [],
+  "certifications_or_compliance_claims": [],
+  "positive_signals": [],
+  "negative_signals": [],
+  "limitations": [
+    "No approved source could be scraped successfully.",
+    "The run must be reviewed by an analyst."
+  ],
+  "requires_analyst_review": true,
+  "retrieval_failures": []
+}
