@@ -1,0 +1,84 @@
+{
+  "vendor_name": "Cloudflare",
+  "source_url": "https://www.cloudflare.com/trust-hub/",
+  "page_title": "The Cloudflare Trust Hub",
+  "evidence_items": [
+    {
+      "evidence_type": "trust_center",
+      "claim": "Cloudflare presents a Trust Hub describing policies, technologies, and certifications related to customer trust.",
+      "supporting_text": "The Cloudflare Trust Hub Policies, technologies, and certifications that help us earn customer trust",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "trust_center",
+      "claim": "Cloudflare states that trust is foundational to its business and references transparency about data handling and security.",
+      "supporting_text": "Trust is the foundation of Cloudflare’s business. We earn our users’ trust by respecting the sanctity of personal data transiting our network, and by being transparent about how we handle and secure that data.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "privacy",
+      "claim": "Cloudflare states that it builds data privacy into its activities and provides information about its privacy policy and GDPR approach.",
+      "supporting_text": "Cloudflare builds data privacy into everything we do. Learn about our privacy policy, our data localization products, and our approach to regulations like the GDPR.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "data_residency",
+      "claim": "Cloudflare references data localization products on the Trust Hub page.",
+      "supporting_text": "Learn about our privacy policy, our data localization products, and our approach to regulations like the GDPR.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "certification",
+      "claim": "Cloudflare states that it complies with a range of security certifications and lists examples including ISO 27001, ISO 27701, PCI DSS, and SOC 2 Type II.",
+      "supporting_text": "Cloudflare protects our customers and their users by complying with a wide range of important security certifications. Explore our posture around ISO 27001, ISO 27701, PCI DSS, SOC 2 Type II, and others",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "security_posture",
+      "claim": "Cloudflare describes trust-focused technologies that support keeping data secure and private.",
+      "supporting_text": "Cloudflare gives you the tools to keep data secure and private. Learn how our network supports end-to-end encryption, identity and access management, data localization, and more.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "insufficient_evidence",
+      "claim": "No visible subprocessor information was identified in the provided page text.",
+      "supporting_text": "No visible page text about subprocessors was present in the observed browser state.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "medium"
+    },
+    {
+      "evidence_type": "insufficient_evidence",
+      "claim": "No visible breach information was identified in the provided page text.",
+      "supporting_text": "No visible page text about breaches was present in the observed browser state.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "medium"
+    },
+    {
+      "evidence_type": "insufficient_evidence",
+      "claim": "No visible vulnerability disclosure or vulnerability management information was identified in the provided page text.",
+      "supporting_text": "No visible page text about vulnerabilities was present in the observed browser state.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "medium"
+    },
+    {
+      "evidence_type": "insufficient_evidence",
+      "claim": "No visible availability or uptime information was identified in the provided Trust Hub page text.",
+      "supporting_text": "No visible page text about availability or uptime was present in the observed browser state.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "medium"
+    }
+  ],
+  "limitations": [
+    "Extraction was limited to visible text provided from https://www.cloudflare.com/trust-hub/ in the browser state.",
+    "The page appeared to have additional content below the visible viewport, but further browsing was unavailable at termination.",
+    "Linked pages such as Privacy & data protection, Responsible AI, Compliance resources, Technologies, and Trust & Safety were not opened because the request restricted extraction to the approved URL/domain and the agent was terminated.",
+    "No final vendor risk decision is made."
+  ],
+  "requires_analyst_review": true
+}

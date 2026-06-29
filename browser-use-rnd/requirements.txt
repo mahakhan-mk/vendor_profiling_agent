@@ -1,0 +1,4 @@
+browser-use[core]==0.13.1
+python-dotenv>=1.0.1
+pydantic>=2.8.0
+playwright>=1.49.0
