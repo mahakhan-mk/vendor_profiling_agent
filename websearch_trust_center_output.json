@@ -1,0 +1,84 @@
+{
+  "vendor": "Microsoft",
+  "product": "Microsoft 365 Copilot",
+  "deployment": "gpt-5-4-mini-websearch-test",
+  "accepted_rule": "Prefer web_search tool sources. Model JSON URLs are included only if they pass local domain validation.",
+  "allowed_domains": [
+    "microsoft.com",
+    "www.microsoft.com",
+    "learn.microsoft.com",
+    "trustcenter.microsoft.com",
+    "servicetrust.microsoft.com",
+    "privacy.microsoft.com",
+    "status.cloud.microsoft",
+    "status.office.com",
+    "admin.microsoft.com",
+    "msrc.microsoft.com"
+  ],
+  "candidate_count": 17,
+  "candidates": [
+    {
+      "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-privacy",
+      "title": "",
+      "snippet": "",
+      "source_origin": "tool_source",
+      "score": 175
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/security-microsoft-365-copilot",
+      "title": "",
+      "snippet": "",
+      "source_origin": "tool_source",
+      "score": 175
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-control-system/security-governance",
+      "title": "",
+      "snippet": "",
+      "source_origin": "tool_source",
+      "score": 175
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/copilot/privacy-and-protections",
+      "title": "",
+      "snippet": "",
+      "source_origin": "tool_source",
+      "score": 175
+    },
+    {
+      "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-minimum-requirements-data-compliance",
+      "title": "",
+      "snippet": "",
+      "source_origin": "tool_source",
+      "score": 175
+    },
+    {
+      "url": "https://servicetrust.microsoft.com/",
+      "title": "",
+      "snippet": "",
+      "source_origin": "tool_source",
+      "score": 165
+    },
+    {
+      "url": "https://servicetrust.microsoft.com/DocumentPage/519f42fc-1360-44d9-8951-012408547013",
+      "title": "",
+      "snippet": "",
+      "source_origin": "tool_source",
+      "score": 165
+    },
+    {
+      "url": "https://servicetrust.microsoft.com/DocumentPage/f8cc3f91-394d-4a85-9c2a-138f03cf12b8",
+      "title": "",
+      "snippet": "",
+      "source_origin": "tool_source",
+      "score": 165
+    }
+  ],
+  "best_candidate": {
+    "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-privacy",
+    "title": "",
+    "snippet": "",
+    "source_origin": "tool_source",
+    "score": 175
+  }
+}

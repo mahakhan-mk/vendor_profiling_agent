@@ -1,0 +1,49 @@
+{
+  "vendor_name": "Cloudflare",
+  "source_url": "https://www.cloudflare.com/trust-hub/",
+  "page_title": "Cloudflare Trust Hub | Cloudfl",
+  "evidence_items": [
+    {
+      "evidence_type": "trust_center",
+      "claim": "Cloudflare presents a Trust Hub page describing trust-related policies, technologies, and certifications.",
+      "supporting_text": "The Cloudflare Trust Hub. Policies, technologies, and certifications that help us earn customer trust",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "privacy",
+      "claim": "Cloudflare states that it respects personal data transiting its network.",
+      "supporting_text": "We earn our users’ trust by respecting the sanctity of personal data transiting our network",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "security_posture",
+      "claim": "Cloudflare states that it is transparent about how it handles and secures data.",
+      "supporting_text": "by being transparent about how we handle and secure that data",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "certification",
+      "claim": "Cloudflare references third-party certifications as part of its Trust Hub content.",
+      "supporting_text": "Read on to explore the policies, technologies, and third-party certifications that make this trust possible.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "medium"
+    },
+    {
+      "evidence_type": "privacy",
+      "claim": "Cloudflare states that it builds data privacy into its work and references privacy policy, data localization products, and GDPR-related regulations.",
+      "supporting_text": "Cloudflare builds data privacy into everything we do. Learn about our privacy policy, our data localization products, and our approach to regulations like the GDPR.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    }
+  ],
+  "limitations": [
+    "Only visible above-the-fold page text was reviewed.",
+    "No links were clicked and no linked evidence pages were visited.",
+    "The page indicates additional content below the visible area, but it was not reviewed because visible text was sufficient to produce evidence.",
+    "No final vendor risk decision is provided."
+  ],
+  "requires_analyst_review": true
+}

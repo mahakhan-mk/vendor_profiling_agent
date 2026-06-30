@@ -1,0 +1,19 @@
+{
+  "vendor_name": "Cloudflare",
+  "search_query": "Cloudflare official trust center security privacy compliance certifications",
+  "candidate_sources": [
+    {
+      "source_type": "insufficient_evidence",
+      "page_title": null,
+      "source_url": "",
+      "reason_selected": "Search failed: AttributeError: 'NoneType' object has no attribute 'strip'",
+      "confidence": "low"
+    }
+  ],
+  "limitations": [
+    "Browser Use search failed or returned invalid JSON.",
+    "AttributeError: 'NoneType' object has no attribute 'strip'"
+  ],
+  "requires_analyst_review": true,
+  "llm_hit_count": 7
+}

@@ -1,0 +1,86 @@
+{
+  "vendor_name": "Cloudflare",
+  "source_url": "https://www.cloudflare.com/trust-hub/",
+  "page_title": "Cloudflare Trust Hub | Cloudflare",
+  "evidence_items": [
+    {
+      "evidence_type": "trust_center",
+      "claim": "Cloudflare presents a Trust Hub focused on policies, technologies, and certifications.",
+      "supporting_text": "The Cloudflare Trust Hub\nPolicies, technologies, and certifications that help us earn customer trust",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "trust_center",
+      "claim": "Cloudflare states that trust is foundational and describes transparency around handling and securing data.",
+      "supporting_text": "Trust is the foundation of Cloudflare’s business. We earn our users’ trust by respecting the sanctity of personal data transiting our network, and by being transparent about how we handle and secure that data.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "privacy",
+      "claim": "Cloudflare states that it builds data privacy into its activities and provides information about privacy policy, data localization products, and GDPR.",
+      "supporting_text": "Cloudflare builds data privacy into everything we do. Learn about our privacy policy, our data localization products, and our approach to regulations like the GDPR.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "certification",
+      "claim": "Cloudflare references security certifications and compliance resources including ISO 27001, ISO 27701, PCI DSS, and SOC 2 Type II.",
+      "supporting_text": "Certifications and compliance resources\nCloudflare protects our customers and their users by complying with a wide range of important security certifications. Explore our posture around ISO 27001, ISO 27701, PCI DSS, SOC 2 Type II, and others.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "security_posture",
+      "claim": "Cloudflare describes its connectivity cloud as delivering networking, security, and performance services.",
+      "supporting_text": "Cloudflare’s connectivity cloud delivers 60+ networking, security, and performance services.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "security_posture",
+      "claim": "Cloudflare states that its Trust Hub includes technologies such as end-to-end encryption, identity and access management, and data localization.",
+      "supporting_text": "Trust-focused technologies\nCloudflare gives you the tools to keep data secure and private. Learn how our network supports end-to-end encryption, identity and access management, data localization, and more.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "data_residency",
+      "claim": "The page references Cloudflare data localization products and a Data Localization Suite.",
+      "supporting_text": "Learn about our privacy policy, our data localization products, and our approach to regulations like the GDPR.\nData localization suite",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "privacy",
+      "claim": "The page references GDPR compliance resources for European organizations.",
+      "supporting_text": "GDPR compliance\nLearn how European organizations use Cloudflare to meet their data protection obligations.",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "availability",
+      "claim": "The page includes references to application availability and Cloudflare status.",
+      "supporting_text": "Ensure app availability\nCloudflare status",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    },
+    {
+      "evidence_type": "vulnerability",
+      "claim": "The page includes a reference to reporting security issues.",
+      "supporting_text": "Report Security Issues",
+      "source_url": "https://www.cloudflare.com/trust-hub/",
+      "confidence": "high"
+    }
+  ],
+  "limitations": [
+    "The provided page text does not include copies of certification reports, audit periods, or scope details.",
+    "The provided page text does not include subprocessor information.",
+    "The provided page text does not include breach or incident history.",
+    "The provided page text references Cloudflare status but does not provide uptime metrics or status history.",
+    "The provided page text references reporting security issues but does not include vulnerability disclosure policy details or response timelines.",
+    "The provided page text references privacy and GDPR topics but does not include the full privacy policy text or data processing terms."
+  ],
+  "requires_analyst_review": true
+}
